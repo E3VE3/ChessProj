@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-
+//poop
 abstract class ChessPiece {
     protected String name, color;
     protected char posX; // 'a' to 'h'
